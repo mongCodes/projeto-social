@@ -28,4 +28,11 @@ section#iphone {
     height: 627px;
     width: 311px;
 }
+img.um {
+    position: absolute;
+    top: 1%;
+    left: 95%;
 
+    height: 70px;
+    border-radius: 50%;
+}
